@@ -1,4 +1,4 @@
-#Einwilligungserklärung der Medizininformatik Initiative (MII)
+# Einwilligungserklärung der Medizininformatik Initiative (MII)
 
 Es handelt sich dabei um eine "breite" Einwilligung (Broad Consent, BC), d.h. der Zweck ist noch nicht genau festgelegt.
 
